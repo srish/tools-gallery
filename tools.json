@@ -90,15 +90,6 @@
 		"url": "https://wikipedialibrary.wmflabs.org/"
 	},
 	{
-		"title": "Gerrit Newcomer Bot",
-		"thumbnail": "static/gerritnewcomerbot.png",
-		"description": "Adds a welcome message to a newcomer patch and adds them to a group for easy tracking",
-		"topics": [ "bot", "code", "python", "gerrit-api" ],
-		"source": "https://github.com/wikimedia/labs-tools-gerrit-newcomer-bot",
-		"owner": "srish",
-		"url": "https://wikitech.wikimedia.org/wiki/Tool:Gerrit-newcomer-bot"
-	},
-	{
 		"title": "OOUI Demos",
 		"thumbnail": "static/oouidemos.png",
 		"description": "Distribution builder for OOUI library's demo page",

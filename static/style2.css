@@ -241,6 +241,7 @@ footer {
 .footer__left {
     position: absolute;
     left: 10px;
+    width: 70%;
 }
 .footer__right {
     position: absolute;
